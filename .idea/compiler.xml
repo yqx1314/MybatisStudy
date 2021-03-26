@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01" />
+        <module name="many2many" />
+        <module name="cache" />
+        <module name="mybatisDAO" />
+        <module name="dynamicSQL" />
+        <module name="lazy" />
+        <module name="one2many" />
+        <module name="annotation_mybatis" />
+        <module name="mybatisCRUD" />
+        <module name="one2many_anno" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotation_mybatis" target="1.8" />
+      <module name="cache" target="1.8" />
+      <module name="datasourceAndTx" target="1.8" />
+      <module name="day01" target="1.8" />
+      <module name="day02" target="1.8" />
+      <module name="day03" target="1.8" />
+      <module name="day04" target="1.8" />
+      <module name="dynamicSQL" target="1.8" />
+      <module name="lazy" target="1.8" />
+      <module name="many2many" target="1.8" />
+      <module name="mybatisCRUD" target="1.8" />
+      <module name="mybatisDAO" target="1.8" />
+      <module name="one2many" target="1.8" />
+      <module name="one2many_anno" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
